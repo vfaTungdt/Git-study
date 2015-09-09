@@ -1,2 +1,2 @@
 #Fresher for Git
-Master
+Develop
